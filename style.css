@@ -1,3 +1,8 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 body {
     background-color: red;
 }
@@ -9,3 +14,17 @@ h1 {
 p {
     color: green;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
